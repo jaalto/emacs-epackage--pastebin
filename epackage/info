@@ -6,7 +6,8 @@ Status: stable
 Compat:
 Maintainer: Jari Aalto <jari.aalto@cante.net>
 Bugs:
-Upstream: Ivan Korotkov <twee@tweedle-dee.org>
+Upstream: Ivan Korotkov <tw33dl3.dee@gmail.com>,
+  Ivan Korotkov <twee@tweedle-dee.org>
 Upstream-Bugs:
 Vcs-Type: http
 Vcs-Url: http://tweedle-dee.org/svn/emacs.d/site-lisp/pastebin.el
