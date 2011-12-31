@@ -1,0 +1,20 @@
+Package: pastebin
+Section: extensions
+License: GPL-2+
+Depends: emacs (>= 22)
+Status: stable
+Compat:
+Maintainer: Jari Aalto <jari.aalto@cante.net>
+Bugs:
+Upstream: Ivan Korotkov <twee@tweedle-dee.org>
+Upstream-Bugs:
+Vcs-Type: http
+Vcs-Url: http://tweedle-dee.org/svn/emacs.d/site-lisp/pastebin.el
+Vcs-Browser:
+Homepage:
+Wiki: http://www.emacswiki.org/emacs/pastebin
+Commentary: pastebin.el
+Description: interface to the www.pastebin.com webservice
+ To send snippets of text or code to paste service. M-x Commands:
+ pastebin (either region or buffer), pastebin-buffer (send whole buffer).
+
