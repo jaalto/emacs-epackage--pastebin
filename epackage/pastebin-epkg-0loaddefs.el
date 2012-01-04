@@ -1,9 +1,9 @@
 
 ;;;### (autoloads (pastebin pastebin-buffer pastebin) "pastebin"
-;;;;;;  "../pastebin.el" (19821 65373))
-;;; Generated autoloads from ../pastebin.el
+;;;;;;  "../pastebin.el" (20223 17296))
+;;; Generated autoloads from pastebin.el
 
-(let ((loads (get 'pastebin 'custom-loads))) (if (member '"pastebin" loads) nil (put 'pastebin 'custom-loads (cons '"pastebin" loads))))
+(let ((loads (get 'pastebin 'custom-loads))) (if (member '"../pastebin" loads) nil (put 'pastebin 'custom-loads (cons '"../pastebin" loads))))
 
 (autoload 'pastebin-buffer "pastebin" "\
 Send the whole buffer to pastebin.com.
@@ -30,4 +30,3 @@ virtual host to use.  For example use 'emacs' for 'emacs.pastebin.com'.
 \(fn START END &optional SUBDOMAIN)" t nil)
 
 ;;;***
-(provide 'pastebin-epkg-0loaddefs)
